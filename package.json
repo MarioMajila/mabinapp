@@ -1,0 +1,23 @@
+{
+  "name": "mabina",
+  "version": "1.0.0",
+  "description": "Files and apps manager",
+  "main": "mabina.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioMajila/mabinapp.git"
+  },
+  "author": "@marionet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioMajila/mabinapp/issues"
+  },
+  "homepage": "https://github.com/MarioMajila/mabinapp#readme",
+  "devDependencies": {
+    "electron": "^9.0.2"
+  }
+}
